@@ -2,7 +2,7 @@
 
 _A thrilling 2D platformer with grappling mechanics_
 
-<img src="/Game_Development/Image/game.png" alt="Responsive" style="border-radius: 10px; border: 2px solid #3498db; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 75%; height: 60%;"/>
+<img src="/Game_Development/Image/game.png" alt="Responsive" style="border-radius: 10px; border: 2px solid #3498db; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 75%; height: 450px;"/>
 
 ---
 
