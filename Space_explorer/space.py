@@ -50,7 +50,7 @@ def generate_galaxy(num_planets):
         y = random.randint(0, 1200)
         planets.append(Planet(x, y))
     return planets
-#main loop
+#main
 
 def main():
     ship = Ship()
